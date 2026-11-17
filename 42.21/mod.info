@@ -1,0 +1,10 @@
+name=[B42] 集成汉化补全
+id=CN_Integrated_Translation
+description=为 Workshop 中尚未汉化的模组提供集成式简体中文翻译，覆盖车辆、Fletcher 射术、Vanilla Foods Expanded、异域舞者、Frockin Splendor、Viewpoint 等。建议排序在所有模组与现有汉化包之后。
+author=DSH
+versionMin=42.21
+versionMax=42.99
+modversion=1.1.0
+zomboidversion=42
+poster=poster.png
+icon=icon.png
